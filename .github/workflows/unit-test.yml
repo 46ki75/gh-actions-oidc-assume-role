@@ -1,4 +1,4 @@
-name: Unit Test
+name: Fetch SSM Parameter
 
 on:
   workflow_dispatch:
